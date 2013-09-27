@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
 <ModulePrefs title="Versículos Aleatórios"
-author="Jair de Jesus"
+author="Meri Pellens"
 author_email="merip_contato@hotmail.com"
 directory_title="http://coisasdameri.blogspot.com.br/2013/04/como-inserir-versiculos-biblicos-no-blog.html"
 description="Versículos bíblicos aleatórios de Meri Pellens"
@@ -21,7 +21,7 @@ function init()
 {
 _IG_FetchContent(
 "http://www.meripellensprojetos.freevar.com/widget/versiculos.php",
-callbackFunc, {refreshInterval:600});
+callbackFunc, {refreshInterval:TimeSpan}); 
 }
 function callbackFunc(responseText)
 {
