@@ -21,7 +21,7 @@ function init()
 {
 _IG_FetchContent(
 "http://www.meripellensprojetos.freevar.com/widget/versiculos.php",
-callbackFunc, {refreshInterval:disable});
+callbackFunc, {refreshInterval:000});
 }
 function callbackFunc(responseText)
 {
