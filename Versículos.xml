@@ -14,15 +14,6 @@ singleton="false" />
 <style>#mainContainer{padding:9px;}</style>
 <table>
 <tr>
-<td valign='top'>
-<p style="text-align:center;width:100%;">
-<a href="http://coisasdameri.blogspot.com.br/" target=_top>
-<img id="staticImg1" border="0" title="Versísculos Aleatórios"/>
-<script>
-_gel("staticImg1").src = _IG_GetImage(".").src;
-</script></p>
-</td></tr><tr>
-<td>
 <center>
 <font face="Times"><i>
 <script type="text/javascript">
