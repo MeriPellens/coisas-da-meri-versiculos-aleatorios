@@ -8,7 +8,7 @@ description="Versículos bíblicos aleatórios de Meri Pellens"
 height="220"
 width="250"
 scrolling="false"
-singleton="false"/>
+singleton="false" />
 <Content type="html">
 <![CDATA[
 <style>#mainContainer{padding:9px;}</style>
