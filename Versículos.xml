@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs title="Versículos Aleatórios">
-<Require feature="opensocial-0.8"/>
+<ModulePrefs title="Versículos Aleatórios"
 author="Meri Pellens"
 author_email="merip_contato@hotmail.com"
 directory_title="http://coisasdameri.blogspot.com.br/2013/04/como-inserir-versiculos-biblicos-no-blog.html"
 description="Versículos bíblicos aleatórios de Meri Pellens"
-scrolling="false"
-singleton="false"
 height="220"
-width="250" 
-</ModulePrefs>
+width="250"
+scrolling="false"
+singleton="false"/>
 <Content type="html">
 <![CDATA[
 <style>#mainContainer{padding:9px;}</style>
