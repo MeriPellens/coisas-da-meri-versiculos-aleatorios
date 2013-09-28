@@ -4,7 +4,6 @@
            <Require feature="opensocial-0.8"/>
            <Require feature="pubsub"/>
           </ModulePrefs>
-          <UserPref name="Width" datatype="string" default_value="220px" />
           <UserPref name="Color" datatype="string" default_value="#333333" />
           <UserPref name="Background" datatype="string" default_value="#93ff14" />
           <UserPref name="Border" datatype="string" default_value="3px solid #409425" />
@@ -14,7 +13,7 @@
 a:visited {text-decoration:none;
 text-color: $textcolor;}
 #mainContainer{
-margin-top: 40px;
+margin: 40px ;
 padding:9px;
 width: 220px;
 background: #93ff14;
