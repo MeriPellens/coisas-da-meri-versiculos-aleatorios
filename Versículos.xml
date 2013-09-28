@@ -4,13 +4,12 @@
            <Require feature="opensocial-0.8"/>
            <Require feature="pubsub"/>
           </ModulePrefs>
-          <UserPref name="height" datatype="string" default_value="180px" />
-          <UserPref name="width" datatype="string" default_value="250px" />
-          <UserPref name="color" datatype="string" default_value="#000000"/>
-          <UserPref name="background" datatype="string" default_value="#93ff14"/>
-          <UserPref name="border" datatype="string" default_value="3px solid #409425"/>
+          <UserPref name="Height" datatype="string" default_value="180px" />
+          <UserPref name="Width" datatype="string" default_value="250px" />
+          <UserPref name="Color" datatype="string" default_value="#000000" />
+          <UserPref name="Background" datatype="string" default_value="#ffffff" />
+          <UserPref name="Border" datatype="string" default_value="1px solid #ccc" />
 <Content type="html">
-<script type='text/javascript'>
 <![CDATA[
 <style>#mainContainer{
 padding:9px;
