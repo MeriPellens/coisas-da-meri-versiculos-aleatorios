@@ -10,9 +10,6 @@
 <Content type="html">
 <![CDATA[
 <style>
-#content {
-background: none;
-}
 #mainContainer{
 padding:9px;
 height: 180px;
