@@ -6,11 +6,11 @@ author_email="merip_contato@hotmail.com"
 directory_title="http://coisasdameri.blogspot.com.br/2013/04/como-inserir-versiculos-biblicos-no-blog.html"
 description="Versículos bíblicos aleatórios de Meri Pellens"
 scrolling="false"
-singleton="false"
+  singleton="false"/>
 <Require feature="opensocial-0.8"/>
 <Require feature="pubsub"/>
 height="220"
-width="250" />
+width="250"
 <Content type="html">
 <![CDATA[
 <style>#mainContainer{padding:9px;}</style>
