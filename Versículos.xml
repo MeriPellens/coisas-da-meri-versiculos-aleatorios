@@ -11,9 +11,9 @@
 <Content type="html">
 <![CDATA[
 <style>body {background-color: transparent;
-height:auto}
+height:150px;}
 a:visited {text-decoration:none;
-color: none;}
+text-color: none;}
 #mainContainer{
 padding:9px;
 width: 220px;
