@@ -12,7 +12,7 @@
 <![CDATA[
 <style>body {background-color: transparent;}
 a:visited {text-decoration:none;
-text-color: none;}
+text-color: $textcolor;}
 #mainContainer{
 margin-top: 40px;
 padding:9px;
