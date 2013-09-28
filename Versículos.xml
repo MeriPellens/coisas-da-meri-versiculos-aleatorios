@@ -16,8 +16,8 @@ padding:9px;
 height: 180px;
 width: 250px;
 color: #00000;
-background: #ffffff;
-border: 1px solid #ccc;
+background: #93ff14;
+border: 1px solid #409425;
 border-radius: 5px;}</style>
 <table>
 <tr>
