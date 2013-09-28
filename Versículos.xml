@@ -17,7 +17,6 @@ text-color: $textcolor;}
 margin-top: 40px;
 padding:9px;
 width: 220px;
-text-color: #333333;
 background: #93ff14;
 border: 3px solid #409425;
 border-radius: 5px;}</style>
