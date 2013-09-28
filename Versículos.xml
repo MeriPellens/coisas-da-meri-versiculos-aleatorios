@@ -4,13 +4,19 @@
            <Require feature="opensocial-0.8"/>
            <Require feature="pubsub"/>
           </ModulePrefs>
-          <UserPref name="Color" description="$textcolor" datatype="string" default_value="#000000" />
-          <UserPref name="Fundo" datatype="string" default_value="#ffffff" />
-          <UserPref name="Borda" datatype="string" default_value="0px solid #ccc" />
-          <UserPref name="Largura" datatype="string" default_value="250px" />
+          <UserPref name="Width" datatype="string" default_value="250px" />
+          <UserPref name="Color" datatype="string" default_value="#000000" />
+          <UserPref name="Background" datatype="string" default_value="#ffffff" />
+          <UserPref name="Border" datatype="string" default_value="0px solid #ccc" />
 <Content type="html">
 <![CDATA[
-<style>#mainContainer{padding:9px;}</style>
+<style>#mainContainer{
+padding:9px;
+width: 250px;
+color: #00000;
+background: #ffffff;
+border: 0px solid #ccc;
+border-radius: 5px;}</style>
 <table>
 <tr>
 <center>
