@@ -4,7 +4,7 @@
            <Require feature="opensocial-0.8"/>
            <Require feature="pubsub"/>
           </ModulePrefs>
-          <UserPref name="Height" datatype="string" default_value="100%" />
+          <UserPref name="Height" datatype="string" default_value="180px" />
           <UserPref name="Width" datatype="string" default_value="250px" />
           <UserPref name="Color" datatype="string" default_value="#000000" />
           <UserPref name="Background" datatype="string" default_value="#ffffff" />
@@ -13,7 +13,7 @@
 <![CDATA[
 <style>#mainContainer{
 padding:9px;
-height: 100%;
+height: 180px;
 width: 250px;
 color: #00000;
 background: #ffffff;
