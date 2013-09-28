@@ -9,6 +9,20 @@ height="220"
 width="250"
 scrolling="false"
 singleton="false" />
+ <ModulePrefs 
+    title="Setprefs New">
+    <Require feature="opensocial-0.8"/>
+    <Require feature="setprefs" /> 
+    </ModulePrefs>
+  <UserPref 
+    name="counter" 
+    default_value="0" 
+    datatype="hidden"
+    $bgcolor="none"
+    $border="1px solid #ccc"
+    $font.color="#000"
+    width="200"
+    height="250"/>
 <Content type="html">
 <![CDATA[
 <style>#mainContainer{padding:9px;}</style>
