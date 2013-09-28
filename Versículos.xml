@@ -5,9 +5,9 @@
            <Require feature="pubsub"/>
           </ModulePrefs>
           <UserPref name="Width" datatype="string" default_value="220px" />
-          <UserPref name="Color" datatype="string" default_value="#000000" />
-          <UserPref name="Background" datatype="string" default_value="#ffffff" />
-          <UserPref name="Border" datatype="string" default_value="1px solid #ccc" />
+          <UserPref name="Color" datatype="string" default_value="#333333" />
+          <UserPref name="Background" datatype="string" default_value="#93ff14" />
+          <UserPref name="Border" datatype="string" default_value="3px solid #409425" />
 <Content type="html">
 <![CDATA[
 <style>body {background-color: transparent;}
