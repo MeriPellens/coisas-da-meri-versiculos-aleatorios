@@ -25,7 +25,7 @@ border-radius: 5px;}</style>
 function init()
 {
 _IG_FetchContent(
-"http://www.meripellensprojetos.freevar.com/widget/versiculos.php",
+"http://www.meripellensprojetos.freevar.com/widget/versiculos2.php",
 callbackFunc, {refreshInterval:600});
 }
 function callbackFunc(responseText)
