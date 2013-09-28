@@ -5,11 +5,12 @@
            <Require feature="pubsub"/>
           </ModulePrefs>
           <UserPref name="Height" datatype="string" default_value="180px" />
-          <UserPref name="Width" datatype="string" default_value="250px" />
-          <UserPref name="Color" datatype="string" default_value="#000000" />
+          <UserPref name="Width" datatype="string" required="true" default_value="250px" />
+          <UserPref name="Color" display_name="Cor do texto" datatype="string" default_value="#000000" />
           <UserPref name="Background" datatype="string" default_value="#ffffff" />
           <UserPref name="Border" datatype="string" default_value="1px solid #ccc" />
 <Content type="html">
+<script type='text/javascript'>
 <![CDATA[
 <style>#mainContainer{
 padding:9px;
