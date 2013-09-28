@@ -7,16 +7,21 @@
           <UserPref name="Color" datatype="string" default_value="#000000" />
           <UserPref name="Background" datatype="string" default_value="#ffffff" />
           <UserPref name="Border" datatype="string" default_value="1px solid #ccc" />
-<Content type="html" view="profile">
+<Content type="html">
 <![CDATA[
-<style>#mainContainer{
+<style>
+.content {
+background: none;
+}
+#mainContainer{
 padding:9px;
 height: 180px;
 width: 250px;
 color: #00000;
 background: #ffffff;
 border: 1px solid #ccc;
-border-radius: 5px;}</style>
+border-radius: 5px;
+}</style>
 <table>
 <tr>
 <center>
