@@ -15,7 +15,6 @@ text-color: $textcolor;}
 #mainContainer{
 margin: 40px ;
 padding:9px;
-width: 220px;
 background: #93ff14;
 border: 3px solid #409425;
 border-radius: 5px;}</style>
