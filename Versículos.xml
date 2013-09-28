@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
 <ModulePrefs title="">
-         <Require feature="opensocial-0.8"/>
+           <Require feature="opensocial-0.8"/>
            <Require feature="pubsub"/>
           </ModulePrefs>
           <UserPref name="Height" datatype="string" default_value="180px" />
@@ -18,8 +18,7 @@ width: 250px;
 color: #00000;
 background: #ffffff;
 border: 1px solid #ccc;
-border-radius: 5px;
-}</style>
+border-radius: 5px;}</style>
 <table>
 <tr>
 <center>
