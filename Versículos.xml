@@ -5,15 +5,10 @@ author="Meri Pellens"
 author_email="merip_contato@hotmail.com"
 directory_title="http://coisasdameri.blogspot.com.br/2013/04/como-inserir-versiculos-biblicos-no-blog.html"
 description="Versículos bíblicos aleatórios de Meri Pellens"
-height="220"
-width="250"
 scrolling="false"
 singleton="false" />
- <ModulePrefs 
-    title="Setprefs New">
-    <Require feature="opensocial-0.8"/>
+<Require feature="opensocial-0.8"/>
     <Require feature="setprefs" /> 
-    </ModulePrefs>
   <UserPref
     $border="1px solid #ccc"
     $font.color="#000"
