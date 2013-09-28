@@ -4,6 +4,10 @@
            <Require feature="opensocial-0.8"/>
            <Require feature="pubsub"/>
           </ModulePrefs>
+          <UserPref name="Color" datatype="string" default_value="red" />
+          <UserPref name="Background" datatype="string" default_value="#ffffff" />
+          <UserPref name="Border" datatype="string" default_value="0px solid #ccc" />
+          <UserPref name="Width" datatype="string" default_value="250" />
 <Content type="html">
 <![CDATA[
 <style>#mainContainer{padding:9px;}</style>
