@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
 <ModulePrefs title="">
-           <Require feature="opensocial-0.8"/>
-          <UserPref name="height" datatype="string" default_value="180px" />
-          <UserPref name="width" datatype="string" default_value="250px" />
-          <UserPref name="color" datatype="string" default_value="#000000" />
-          <UserPref name="background" datatype="string" default_value="#ffffff" />
-          <UserPref name="border" datatype="string" default_value="1px solid #ccc" />
+         <Require feature="opensocial-0.8"/>
+           <Require feature="pubsub"/>
+          </ModulePrefs>
+          <UserPref name="Height" datatype="string" default_value="180px" />
+          <UserPref name="Width" datatype="string" default_value="250px" />
+          <UserPref name="Color" datatype="string" default_value="#000000" />
+          <UserPref name="Background" datatype="string" default_value="#ffffff" />
+          <UserPref name="Border" datatype="string" default_value="1px solid #ccc" />
 <Content type="html">
 <![CDATA[
-<style>
-#mainContainer{
+<style>#mainContainer{
 padding:9px;
-height: 180px !important;
+height: 180px;
 width: 250px;
 color: #00000;
 background: #ffffff;
