@@ -10,12 +10,11 @@
           <UserPref name="Border" datatype="string" default_value="1px solid #ccc" />
 <Content type="html">
 <![CDATA[
-<style>body {background-color: transparent;
-height:150px;}
+<style>body {background-color: transparent;}
 a:visited {text-decoration:none;
 text-color: none;}
 #mainContainer{
-margin-top: 10px;
+margin-top: 40px;
 padding:9px;
 width: 220px;
 text-color: #333333;
