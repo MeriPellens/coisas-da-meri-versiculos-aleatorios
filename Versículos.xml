@@ -14,11 +14,7 @@ singleton="false" />
     <Require feature="opensocial-0.8"/>
     <Require feature="setprefs" /> 
     </ModulePrefs>
-  <UserPref 
-    name="counter" 
-    default_value="0" 
-    datatype="hidden"
-    $bgcolor="none"
+  <UserPref
     $border="1px solid #ccc"
     $font.color="#000"
     width="200"
