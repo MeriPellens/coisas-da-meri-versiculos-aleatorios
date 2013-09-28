@@ -11,7 +11,6 @@
 <![CDATA[
 <style>body {background-color: transparent;}
 #mainContainer{
-margin: 40px ;
 padding:9px;
 background: #93ff14;
 border: 3px solid #409425;
