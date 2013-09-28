@@ -11,7 +11,7 @@
           <UserPref name="Border" datatype="string" default_value="1px solid #ccc" />
 <Content type="html">
 <![CDATA[
-<style>#body, #mainContainer{
+<style>#mainContainer{
 padding:9px;
 height: 180px;
 width: 250px;
