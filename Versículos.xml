@@ -10,7 +10,8 @@
           <UserPref name="Border" datatype="string" default_value="1px solid #ccc" />
 <Content type="html">
 <![CDATA[
-<style>body {background-color: transparent;}
+<style>body {background-color: transparent;
+height:100%}
 a:visited {text-decoration:none;
 color: none;}
 #mainContainer{
