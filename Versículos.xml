@@ -9,9 +9,8 @@
           <UserPref name="Border" datatype="string" default_value="3px solid #409425" />
 <Content type="html">
 <![CDATA[
-<style>body {display:none;}
+<style>body {background-color: transparent;}
 #mainContainer{
-display:block;
 margin: 40px ;
 padding:9px;
 background: #93ff14;
