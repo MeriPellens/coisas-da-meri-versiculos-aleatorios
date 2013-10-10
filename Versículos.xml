@@ -3,12 +3,13 @@
   <ModulePrefs title="Legacy PHP Userprefs" height="400" scrolling="true">
   <Require feature="opensocial-0.8" /> 
 </ModulePrefs>
-<UserPref name="mycolor" display_name="Color" default_value="Orange" datatype="enum" >
+<UserPref name="background-color" display_name="Color" default_value="White" datatype="enum" >
    <EnumValue value="Red" />
    <EnumValue value="Blue" />
    <EnumValue value="Green" />
    <EnumValue value="Yellow" />
    <EnumValue value="Pink" />
+   <EnumValue value="Lilac" />
    <EnumValue value="Orange" />
    <EnumValue value="White" />
    <EnumValue value="Aqua" />
