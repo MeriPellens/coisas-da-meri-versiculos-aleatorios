@@ -11,7 +11,7 @@ singleton="false" />
 <Content type="html">
 <![CDATA[
 <style>body {background-color: transparent;}
-#mainContainer{padding:9px;}</style>
+#mainContainer{padding:9px; border:2px outset #ccc; border-radius: 5px;}</style>
 <table>
 <tr>
 <center>
