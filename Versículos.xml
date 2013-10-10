@@ -14,14 +14,6 @@
    <EnumValue value="Aqua" />
  </UserPref>
 <Content type="html">
-<script type="text/javascript">
-  gadgets.util.registerOnLoadHandler(doRender);
-
-  function doRender(){
-    // setup variables
-    var prefs = new gadgets.Prefs();
-    var mycolor = prefs.getString('mycolor');
-    </script>
 <![CDATA[
 <style>body {background-color: transparent;}
 #mainContainer{padding:9px; border:2px outset #ccc; border-radius: 5px;}</style>
