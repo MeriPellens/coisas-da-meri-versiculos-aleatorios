@@ -3,8 +3,6 @@
   <ModulePrefs title="Legacy PHP Userprefs" height="400" scrolling="true">
   <Require feature="opensocial-0.8" /> 
 </ModulePrefs>
-<UserPref name="mychoice" display_name="List Params?" datatype="bool" default_value="true"/>
-<UserPref name="myname" display_name="Name" default_value="Rowan"/>
 <UserPref name="mycolor" display_name="Color" default_value="Orange" datatype="enum" >
    <EnumValue value="Red" />
    <EnumValue value="Blue" />
