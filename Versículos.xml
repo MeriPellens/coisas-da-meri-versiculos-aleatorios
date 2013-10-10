@@ -7,11 +7,39 @@ directory_title="http://coisasdameri.blogspot.com.br/2013/04/como-inserir-versic
 description="Versículos bíblicos aleatórios de Meri Pellens"
 scrolling="false"
 singleton="false" />   
-<UserPref name="background" display_name="Cor de fundo" default_value="transparent" required="false" />  
+<UserPref name="mycolor" display_name="Cor de fundo" default_value="transparent" required="false" />  
 <Content type="html">
 <![CDATA[
 <style>body {background-color: transparent;}
 #mainContainer{padding:9px;}</style>
+<div id="content_div"></div>
+   <script type="text/javascript">
+   // Get userprefs
+   var prefs = new gadgets.Prefs();
+
+   function displayGreeting () {
+     // Get current time
+     var today = new Date();
+     var time = today.getTime();
+     var html = "";
+  
+     // Based on the time of day, display an appropriate greeting
+     var hour = today.getHours();
+     var salutation = "Afternoon";
+     if (hour < 12) {
+       salutation = "Morning";
+     } else if (hour > 17) {
+       salutation = "Evening";
+     }
+
+   // Set the background color according to the mycolor userpref   
+     element.style.backgroundColor=prefs.getString("mycolor"); 
+
+   // Pass the userprefs for this module instance to the function
+   // (allows users to include multiple module instances on their page)
+   gadgets.util.registerOnLoadHandler(displayGreeting); 
+  
+   </script> 
 <table>
 <tr>
 <center>
