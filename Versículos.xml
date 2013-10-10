@@ -34,7 +34,9 @@ singleton="false" />
 
    // Set the background color according to the mycolor userpref   
      element.style.backgroundColor=prefs.getString("mycolor"); 
-
+}
+     element.innerHTML = html;
+   }
    // Pass the userprefs for this module instance to the function
    // (allows users to include multiple module instances on their page)
    gadgets.util.registerOnLoadHandler(displayGreeting); 
