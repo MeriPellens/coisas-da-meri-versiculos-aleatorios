@@ -7,16 +7,11 @@ directory_title="http://coisasdameri.blogspot.com.br/2013/04/como-inserir-versic
 description="Versículos bíblicos aleatórios de Meri Pellens"
 scrolling="false"
 singleton="false" />   
-<UserPref name="mycolor" display_name="Cor de fundo" default_value="transparent" required="false" />  
+<UserPref name="bgcolor" display_name="Cor de fundo" default_value="transparent" required="false" />  
 <Content type="html">
 <![CDATA[
 <style>body {background-color: transparent;}
 #mainContainer{padding:9px;}</style>
-<div id="content_div"></div>
-   <script type="text/javascript">
-  var prefs = new gadgets.Prefs();
-  var someStringPref = prefs.getString("mycolor");
-</script>
 <table>
 <tr>
 <center>
