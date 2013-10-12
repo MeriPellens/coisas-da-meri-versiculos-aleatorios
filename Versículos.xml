@@ -11,7 +11,7 @@ singleton="false" />
 <Content type="html">
 <![CDATA[
 <style>body {background: transparent;}
-#mainContainer{background: transparent url(http://lh5.googleusercontent.com/-YhrD_Z1itT4/UlnRpb8WgmI/AAAAAAAAJX8/Ha8LafsbzcY/s240/pergaminho.png) padding:9px;}</style>
+#mainContainer{background: transparent url('http://lh5.googleusercontent.com/-YhrD_Z1itT4/UlnRpb8WgmI/AAAAAAAAJX8/Ha8LafsbzcY/s240/pergaminho.png') center no-repeat; padding:9px;}</style>
 <table>
 <tr>
 <center>
