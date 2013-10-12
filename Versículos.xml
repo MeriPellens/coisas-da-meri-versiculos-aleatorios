@@ -5,8 +5,8 @@
 </ModulePrefs>
 <Content type="html">
 <![CDATA[
-<style>body {background-color: transparent;}
-#mainContainer{padding:9px; border:2px outset #ccc; border-radius: 5px;}</style>
+<style>body {background-color: transparent; height:auto;}
+#mainContainer{padding:9px; border:2px outset #ccc; border-radius: 5px; height:auto;}</style>
 <table>
 <tr>
 <center>
