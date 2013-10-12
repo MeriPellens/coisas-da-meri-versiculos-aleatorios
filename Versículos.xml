@@ -5,13 +5,13 @@ author="Meri Pellens"
 author_email="merip_contato@hotmail.com"
 directory_title="http://coisasdameri.blogspot.com.br/2013/04/como-inserir-versiculos-biblicos-no-blog.html"
 description="Versículos bíblicos aleatórios de Meri Pellens"
-width="230"
+width="200"
 scrolling="false"
 singleton="false" />
   <Require feature="opensocial-0.8" />
 <Content type="html">
 <![CDATA[
-<style>body {background: url("http://lh5.googleusercontent.com/-YhrD_Z1itT4/UlnRpb8WgmI/AAAAAAAAJX8/Ha8LafsbzcY/s250/pergaminho.png") center no-repeat;}
+<style>body {background: url("http://lh5.googleusercontent.com/-YhrD_Z1itT4/UlnRpb8WgmI/AAAAAAAAJX8/Ha8LafsbzcY/s240/pergaminho.png") center no-repeat;}
 #mainContainer{padding:9px;width:230px;}</style>
 <table>
 <tr>
