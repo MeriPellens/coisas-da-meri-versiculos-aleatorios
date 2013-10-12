@@ -10,7 +10,7 @@ singleton="false" />
   <Require feature="opensocial-0.8" />
 <Content type="html">
 <![CDATA[
-<style>body {background: url('http://lh5.googleusercontent.com/-YhrD_Z1itT4/UlnRpb8WgmI/AAAAAAAAJX8/Ha8LafsbzcY/s240/pergaminho.png') center no-repeat;}
+<style>body {background: url("http://lh5.googleusercontent.com/-YhrD_Z1itT4/UlnRpb8WgmI/AAAAAAAAJX8/Ha8LafsbzcY/s240/pergaminho.png") center no-repeat;}
 #mainContainer{padding:9px;}</style>
 <table>
 <tr>
