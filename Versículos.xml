@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-   <ModulePrefs title="Legacy PHP Userprefs" height="400" scrolling="true">
+   <ModulePrefs title="">
   <Require feature="opensocial-0.8" /> 
-<UserPref name="mycolor" display_name="Color" default_value="Orange" datatype="enum" >
-   <EnumValue value="Red" />
-   <EnumValue value="Blue" />
-   <EnumValue value="Green" />
-   <EnumValue value="Yellow" />
-   <EnumValue value="Pink" />
-   <EnumValue value="Orange" />
-   <EnumValue value="White" />
-   <EnumValue value="Aqua" />
- </UserPref>
 </ModulePrefs>
 <Content type="html">
 <![CDATA[
