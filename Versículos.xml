@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-   <ModulePrefs title="">
-  <Require feature="opensocial-0.8" /> 
-</ModulePrefs>
+   <ModulePrefs title=""
+author="Meri Pellens"
+author_email="merip_contato@hotmail.com"
+directory_title="http://coisasdameri.blogspot.com.br/2013/04/como-inserir-versiculos-biblicos-no-blog.html"
+description="Versículos bíblicos aleatórios de Meri Pellens"
+height= "220px"
+scrolling="false"
+singleton="false" />
+  <Require feature="opensocial-0.8" />
 <Content type="html">
 <![CDATA[
 <style>body {background-color: transparent; height:auto;}
