@@ -19,7 +19,7 @@ singleton="false" />
 function init()
 {
 _IG_FetchContent(
-"http://projetosmp.freevar.com/widget/versiculos.php",
+"http://projetosmp.freevar.com/widget/versiculos3.php",
 callbackFunc, {refreshInterval:600});
 }
 function callbackFunc(responseText)
