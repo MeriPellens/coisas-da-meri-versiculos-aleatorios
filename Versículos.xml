@@ -13,7 +13,7 @@ singleton="false" />
 <Content type="html">
 <![CDATA[
 <style>body {background: url("http://lh5.googleusercontent.com/-YhrD_Z1itT4/UlnRpb8WgmI/AAAAAAAAJX8/Ha8LafsbzcY/s280/pergaminho.png") top center no-repeat;}
-#mainContainer{padding: 20px 15px 9px 15px;margin-top:20px; width:220px;}</style>
+#mainContainer{padding: 9px;margin:20px 15px 0px 15px; width:220px;}</style>
 <table>
 <tr>
 <center>
