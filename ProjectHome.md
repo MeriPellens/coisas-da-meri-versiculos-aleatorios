@@ -1,0 +1,1 @@
+Versículos bíblicos aleatórios em cada carregamento de página.
